@@ -31,36 +31,6 @@ This project demonstrates **CRUD operations**, task completion tracking, and sec
 
 ---
 
-## 📂 Project Structure
-
-```
-
-django-todo-app/
-│
-├── todo/                 # To-Do application
-│   ├── migrations/
-│   ├── templates/
-│   │   └── todo/
-│   │       ├── list.html
-│   │       ├── form.html
-│   │       └── view.html
-│   ├── models.py
-│   ├── views.py
-│   └── urls.py
-│
-├── todoproject/          # Project settings
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── manage.py
-├── .gitignore
-├── .env.example
-└── README.md
-
-````
-
----
 
 ## ⚙️ Installation & Setup
 
