@@ -4,8 +4,8 @@
 ```md
 # 📝 Django To-Do List Application
 
-A simple, clean, and professional **To-Do List web application** built using **Django**.  
-This project demonstrates **CRUD operations**, task completion tracking, and secure handling of sensitive data using environment variables.
+A simple, clean, and professional To-Do List web application built using Django.  
+This project demonstrates CRUD operations, task completion tracking, and secure handling of sensitive data using environment variables.
 
 ---
 
@@ -15,8 +15,8 @@ This project demonstrates **CRUD operations**, task completion tracking, and sec
 - 👀 View task details  
 - ✏️ Edit existing tasks  
 - 🗑️ Delete tasks with confirmation  
-- ✅ Mark tasks as **Completed / Pending**  
-- 🎨 Responsive and user-friendly UI using **Bootstrap 5**  
+- ✅ Mark tasks as Completed / Pending  
+- 🎨 Responsive and user-friendly UI using Bootstrap 5  
 - 🔐 Secure handling of `SECRET_KEY` using `.env` file  
 - 📦 Clean project structure following Django best practices  
 
@@ -24,10 +24,10 @@ This project demonstrates **CRUD operations**, task completion tracking, and sec
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python, Django  
-- **Frontend:** HTML, Bootstrap 5, Font Awesome  
-- **Database:** SQLite  
-- **Version Control:** Git & GitHub  
+- Backend: Python, Django  
+- Frontend: HTML, Bootstrap 5, Font Awesome  
+- Database: SQLite  
+- Version Control: Git & GitHub  
 
 ---
 
